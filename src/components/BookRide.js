@@ -28,7 +28,7 @@ class BookRide extends Component {
 					</Form.Item>
 
 					<Form.Item>
-						<Button type="primary" htmlType="submit" className="form-button" onClick={alert(`We'll call you shortly.`)}>
+						<Button type="primary" htmlType="submit" className="form-button" onClick={() => alert(`We'll call you shortly.`)}>
 							Book Test Ride
 						</Button>
 					</Form.Item>
