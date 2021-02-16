@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ather-clone-frontend-fest/static/css/main.ce2c6aaf.chunk.css",
-    "main.js": "/ather-clone-frontend-fest/static/js/main.9a0eb787.chunk.js",
-    "main.js.map": "/ather-clone-frontend-fest/static/js/main.9a0eb787.chunk.js.map",
+    "main.js": "/ather-clone-frontend-fest/static/js/main.94554e93.chunk.js",
+    "main.js.map": "/ather-clone-frontend-fest/static/js/main.94554e93.chunk.js.map",
     "reactPlayerDailyMotion.js": "/ather-clone-frontend-fest/static/js/reactPlayerDailyMotion.0842cfb4.chunk.js",
     "reactPlayerDailyMotion.js.map": "/ather-clone-frontend-fest/static/js/reactPlayerDailyMotion.0842cfb4.chunk.js.map",
     "reactPlayerFacebook.js": "/ather-clone-frontend-fest/static/js/reactPlayerFacebook.0af40be7.chunk.js",
@@ -50,6 +50,6 @@
     "static/css/14.1e58ee36.chunk.css",
     "static/js/14.beb38152.chunk.js",
     "static/css/main.ce2c6aaf.chunk.css",
-    "static/js/main.9a0eb787.chunk.js"
+    "static/js/main.94554e93.chunk.js"
   ]
 }
