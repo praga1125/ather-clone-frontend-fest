@@ -1,91 +1,145 @@
 .float-right {
 	float: right;
-}
-
-.photo {
+  }
+  
+  .photo {
 	height: 700px;
-}
-
-.center {
+  }
+  
+  .int-gif {
+	height: auto;
+	width: 100%;
+  }
+  
+  .center {
 	align-items: center;
 	align-content: center;
 	text-align: center;
-}
-
-.intro-heading {
+  }
+  
+  .intro-heading {
 	font-family: 'Garamond, Helvetica Narrow, sans-serif;';
 	font-weight: bold;
 	font-size: 72px;
-}
-
-.intro-sub-heading {
+  }
+  
+  .intro-sub-heading {
 	font-family: 'Garamond, Helvetica Narrow, sans-serif;';
 	font-size: 36px;
 	font-style: italic;
-}
-
-.intro-content {
+  }
+  
+  .intro-content {
 	font-family: 'Impact, fantasy;';
 	font-size: 24px;
-}
-
-.int-photo {
+  }
+  
+  .int-photo {
 	width: 400px;
 	height: 300px;
-}
-
-.int-heading {
+  }
+  
+  .int-heading {
 	font-family: 'Garamond, Helvetica Narrow, sans-serif;';
 	font-weight: bold;
 	font-size: 48px;
 	margin-top: 35px;
-}
-
-.int-content {
+  }
+  
+  .int-content {
 	font-family: 'Impact, fantasy;';
 	font-size: 24px;
 	margin-top: 15px;
-}
-
-.row-split {
+  }
+  
+  .row-split {
 	margin-top: 100px;
-}
-
-.int-connected {
+  }
+  
+  .int-connected {
 	padding-left: 10%;
 	font-family: 'Garamond, Helvetica Narrow, sans-serif;';
 	font-size: 28px;
-}
-
-.performance-content {
+  }
+  
+  .performance-content {
 	padding-left: 35px;
 	font-family: 'Impact, fantasy;';
 	font-size: 24px;
-}
-
-.reverse-content {
+  }
+  
+  .reverse-content {
 	padding-left: 40px;
 	font-family: 'Impact, fantasy;';
 	font-size: 26px;
-}
-
-.performance-bolder {
+  }
+  
+  .performance-bolder {
 	font-size: 36px;
 	font-weight: bold;
-}
-
-.charge-table {
+  }
+  
+  .charge-table {
 	padding-top: 150px;
-}
-
-.charge-td {
+  }
+  
+  .charge-td {
 	padding-top: 200px;
-	/* background-color: bisque; */
 	padding-left: 10px;
-}
-
-
-.form {
-	margin-left: 10%;
-	margin-right: 20%;
-}
+  }
+  
+  .booking-card-body {
+	width: 700px;
+	border: 0.5px solid black;
+	margin: 5%;
+  }
+  
+  .booking-card {
+	margin-left: 20%;
+	margin-top: 5%;
+  }
+  
+  .bokking-row-split {
+	padding: 20px;
+  }
+  
+  .charge-card {
+	width: 100%;
+	height: 100%;
+	font-family: 'Impact, fantasy;';
+	font-size: 26px;
+	align-items: center;
+	align-content: center;
+	text-align: justify;
+  }
+  
+  .charge-header {
+	padding: 40px 0;
+	font-style: italic;
+	font-weight: 500;
+	font-size: 32px;
+	font-style: oblique;
+  }
+  
+  .charge-icon {
+	padding-left: 20px;
+  }
+  
+  .charge-content {
+	padding: 0px;
+	margin: 0px;
+	padding-right: 2%;
+  }
+  
+  .charge-row {
+	padding-bottom: 20px;
+  }
+  
+  .left {
+	float: left;
+  }
+  
+  .charge-photo {
+	width: 100%;
+	height: 100%;
+  }
